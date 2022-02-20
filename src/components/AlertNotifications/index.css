@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.notifications-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-container {
+  padding-top: 0px;
+}
+
+.name {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.icon {
+  margin-right: 5px;
+  font-size: 40px;
+}
+
+.green {
+  color: #2dca73;
+}
+
+.red {
+  color: #ff0b37;
+}
+
+.yellow {
+  color: #ffb800;
+}
+
+.blue {
+  color: #0f81e0;
+}

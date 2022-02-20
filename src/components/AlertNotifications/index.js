@@ -8,7 +8,7 @@ import './index.css'
 
 const AlertNotifications = () => (
   <div className="bg-container">
-    <h1>Alert Notifications</h1>
+    <h1>Alert Notifications Hola</h1>
     <div className="notifications-container">
       <Notification>
         <AiFillCheckCircle className="icon green" />
